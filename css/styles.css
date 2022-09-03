@@ -74,13 +74,13 @@ body {
 }
 
 .hero-title {
+  text-align: center;
   color: var(--primary-link-color);
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  text-align: center;
 }
 .hero-btn {
   background-color: var(--accent-color);
