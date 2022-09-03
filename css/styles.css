@@ -84,6 +84,13 @@ body {
   letter-spacing: 0.06em;
   cursor: pointer;
   font-family: inherit;
+  border: none;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: var(--primary-link-color);
+  color: var(--accent-color);
 }
 
 .hero-btn:active {
