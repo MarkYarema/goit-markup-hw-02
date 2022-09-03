@@ -80,7 +80,6 @@ body {
   line-height: 1.4;
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  text-align: center;
 }
 .hero-btn {
   background-color: var(--accent-color);
