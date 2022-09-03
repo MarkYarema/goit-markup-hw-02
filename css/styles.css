@@ -27,7 +27,7 @@ body {
 
 /* Header */
 
-.header {
+.main-header {
   background-color: var(--primary-link-color);
 }
 
@@ -161,7 +161,7 @@ body {
 
 /* footer */
 
-.footer {
+.main-footer {
   background-color: var(--primary-background-color);
 }
 
